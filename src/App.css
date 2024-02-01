@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;  
+}
+
+
+
+
+
+
+/* Show Css */
+show-body{
+  background-color: #666;
+  z-index: 200;
+  border: 2px solid red;
+  backdrop-filter: blur(10px);
+}
